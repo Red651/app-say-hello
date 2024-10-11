@@ -8,4 +8,5 @@ import (
 
 func main() {
 	fmt.Println(Sayhello.Sayhello("Farhan"))
+	fmt.Println(Sayhello.Penjumlahan(2, -3))
 }
